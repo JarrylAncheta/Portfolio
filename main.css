@@ -121,6 +121,15 @@ div.desc {
     clear: both;
 }
 
+.media {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: left;
+}
 
 #portfolio-item1 {
   margin-top: 60px;
@@ -129,6 +138,46 @@ div.desc {
 }
 
 #portfolio-item2 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item3 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item4 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item5 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item6 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item7 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item8 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item9 {
+  margin-top: 60px;
+  padding: 40px;
+  background-color: #ffffff;
+}
+#portfolio-item10 {
   margin-top: 60px;
   padding: 40px;
   background-color: #ffffff;
