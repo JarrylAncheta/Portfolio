@@ -17,7 +17,9 @@ body {
   padding: 30px 20px;
   text-align: center;
 }
-
+p {
+	text-align: left;
+}
 /* Your Name- spacing and font size */
 
 h1 {
