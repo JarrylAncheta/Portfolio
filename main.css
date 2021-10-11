@@ -20,6 +20,10 @@ body {
 p {
 	text-align: left;
 }
+p {
+	text-align: right;
+}
+
 /* Your Name- spacing and font size */
 
 h1 {
