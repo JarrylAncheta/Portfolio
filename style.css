@@ -213,16 +213,6 @@ message {
     
 }
 
-/* the below code does not work as I expected. It turns out some interesting effect"
-#hangman, 
-#rpg_game,
-#trivia,
-#rutgers,
-#rps {
-    height: 222px;
-    width: 316px;
-} */
-
 .photo-size {
 
     height: 222px;
@@ -258,11 +248,7 @@ message {
     margin-left: 30px;
 }
 
-div #hangman,
-div #rpg_game,
-div #trivia,
-div #rutgers,
-div #rps {
+ {
 
     height: 280px;
 }
