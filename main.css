@@ -21,26 +21,24 @@ p {
 	text-align: center;
 }
 
-/* Your Name- spacing and font size */
-
 h1 {
   padding: 20px 0px 10px 0px;
 }
 
-/* This changes color and removes default underline in links  */
+/ This changes color and removes default underline in links
 
 a {
 color: #1589FF;
 text-decoration: none;
 }
 
-/* mouse over link */
+/ mouse over link
 a:hover {
   color: #FF00DD;
     }
 
 
-/* Style the header div */
+/ Style the header div
 .header {
         list-style-type:none;
         padding: 30px;
@@ -62,14 +60,14 @@ a:hover {
     }
 
 
-/* Centers images that aren't in the portfolio grid */
+/ Centers images that aren't in the portfolio grid
 
 img {
   display: block;
   margin: 0px auto;
 }
 
-/* Gallery- much of this is sourced from w3schools */
+/ Gallery- much of this is sourced from w3schools
 
 .container {
   width: auto;
